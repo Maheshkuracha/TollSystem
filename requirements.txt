@@ -1,8 +1,8 @@
-pip install pytesseract==0.3.0
-pip install numpy==1.19.2
-pip install opencv-contrib-python==4.3.0.36
-pip install opencv-python==4.1.1.26
-pip install Django==2.1.7
+pytesseract==0.3.0
+numpy==1.19.2
+opencv-contrib-python==4.3.0.36
+opencv-python==4.1.1.26
+Django==2.1.7
 
 in student system copy and paste tessarct folder an dthen set
 path
