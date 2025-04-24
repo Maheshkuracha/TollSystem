@@ -4,27 +4,3 @@ opencv-contrib-python==4.3.0.36
 opencv-python==4.1.1.26
 Django==2.1.7
 gunicorn==20.1.0
-
-
-Django==4.2.0
-gunicorn==20.1.0
-pytesseract==0.3.0
-pillow==10.0.0
-# etc.
-
-set
-path
-
-hope u git its depend on multiple things like packages, tessarct version, algortihm
-and it difficult to find actual problem so u need to follow all steps which is done now
-
-above packages to install
-copy tessarct folder from ur system c directory and paste in student laptop and th
-
-set path in same way as its et in ur system
-
-okay sir 
-shall i disconnect
-
-
-yes 
